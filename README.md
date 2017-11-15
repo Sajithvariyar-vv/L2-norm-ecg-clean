@@ -10,3 +10,7 @@ Deppendencies to be installed for python
 
 #Sample data for denoise can be found inside data folder.Please change the file name inside the python code if necessary
 
+How to Run the Script
+
+sudo python ecg_denoise.py
+
